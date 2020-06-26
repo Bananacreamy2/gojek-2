@@ -8,8 +8,8 @@ pkg install curl
 
 pkg install git
 
-git clone https://github.com/ronnyhs/hanggar
+git clone https://github.com/ronnyhs/gojek
 
-cd hanggar
+cd gojek
 
 php sikat.php
